@@ -1,6 +1,8 @@
 function mult(numero){
+    let padrao = ''
     for(var contador = 0;contador < numero; contador ++){
-        console.log('*' * (contador));
+        padrao += '*'
+        console.log(padrao)
     }
 }
 mult(6)
