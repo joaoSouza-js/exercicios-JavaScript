@@ -50,5 +50,8 @@ multiplication(20,30,show)
 //fazendo eu não precisso dar três consoles.logs para aparecer os resultados
 
 //uma desvantagem é eu ser obrigado a passar o nome da fução se não o Javam  irá retornar um erro
+setTimeout(function(){
+    console.log('no baile nós é midia no baile os meno marola')
+},3000)
 
 
