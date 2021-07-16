@@ -16,3 +16,7 @@ for(key in celular1){
 }
 var celular2 = {...celular1}
 console.log(celular2)
+
+var celulares = {celular1},
+{celular2}
+

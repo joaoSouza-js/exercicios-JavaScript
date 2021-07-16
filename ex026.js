@@ -1,0 +1,1 @@
+transactions.push(createNewTrasacion(id += 1, 'paraquedismo',-20000, "20/2/12"))
